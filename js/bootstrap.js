@@ -1,4 +1,4 @@
 var a, b, c
+sum1 = a + c
+sum2 = a + b
 
-sum1 = a + b
-sum2 = a + c
