@@ -220,8 +220,19 @@ td{
 .tdata{
 	text-align: right;
 }
-
-
+#container{
+	display: flex;
+}
+.box{
+	padding: 10px;
+}
+#container a{
+	text-decoration: none;
+	background-color: green;
+	color: white;
+	padding: 5px;
+	margin: 50px;
+}
 
 
 
